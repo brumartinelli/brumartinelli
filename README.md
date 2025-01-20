@@ -1,6 +1,7 @@
 <p align="center">Olá! Sejam bem-vindos! 
 
 <p align="center">Atualmente estou concluindo o bacharelado em Engenharia de Software. Sendo autodidata, já atuei em diversas áreas, tornando-me um profissional flexível e com uma visão mais ampla na resolução de problemas. Criatividade é o meu diferencial.
+  
 ##
 
 <picture align="center">
