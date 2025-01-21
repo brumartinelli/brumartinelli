@@ -5,7 +5,7 @@
 Hey! Welcome to my profile 
 
 # <span 
-     style="color: yellow;">ABOUT ME
+   style="color: yellow;">ABOUT ME
 </span>
 I'm currently completing a Bachelor's degree in Software Engineering. As a self-taught professional, I have worked in various fields, which has made me a flexible professional with a broader perspective on problem-solving. Creativity is my standout quality.
 
