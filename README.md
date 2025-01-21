@@ -1,5 +1,6 @@
-Hey! Welcome to my profile 
-##
+Hey! Welcome to my profile <p align="center"><img align="center"src="https://profile-counter.glitch.me/brumartinelli/count.svg"/></p>
+
+# ABOUT ME
 I'm currently completing a Bachelor's degree in Software Engineering. As a self-taught professional, I have worked in various fields, which has made me a flexible professional with a broader perspective on problem-solving. Creativity is my standout quality.
 
 # CONTACTS
