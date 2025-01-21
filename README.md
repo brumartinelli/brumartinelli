@@ -1,7 +1,7 @@
 <p align="right">VISITORS:</p>
 <p align="right"><img align="right"src="https://profile-counter.glitch.me/brumartinelli/count.svg"/></p>
    </p><hr>
-##
+https://profile-counter.glitch.me/brumartinelli/count.svg?color=red&style=bold
 Hey! Welcome to my profile 
 
 # ABOUT ME
@@ -34,4 +34,6 @@ I'm currently completing a Bachelor's degree in Software Engineering. As a self-
 </picture>
 
 
-
+<p align="right">VISITORS:</p>
+<p align="right"><img align="right"src="https://profile-counter.glitch.me/brumartinelli/count.svg?color=red&style=bold"/></p>
+   </p><hr>
