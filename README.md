@@ -6,8 +6,8 @@ Hey! Welcome to my profile
 
 # ABOUT ME
 I'm currently completing a Bachelor's degree in Software Engineering. As a self-taught professional, I have worked in various fields, which has made me a flexible professional with a broader perspective on problem-solving. 
-*Creativity is my standout quality.
-*English level A2
+* Creativity is my standout quality.
+* English level A2
 
 # CONTACTS
 
