@@ -6,7 +6,7 @@ Hey! Welcome to my profile
 
 # ABOUT ME
 * I'm currently completing a Bachelor's degree in Software Engineering;
-* As a autodidact, i worked in various fields, it has made me a flexible professional with a broader prospect on resolving problems;
+* As an autodidact, I have experience in various fields and it has made me a flexible professional with a broader prospect on resolving problems;
 * Creativity is my differential quality;
 * English level A2.
 
