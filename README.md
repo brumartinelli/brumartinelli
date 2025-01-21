@@ -1,10 +1,10 @@
 <p align="right">VISITORS:</p>
 <p align="right"><img align="right"src="https://profile-counter.glitch.me/brumartinelli/count.svg"/></p>
    </p><hr>
-https://profile-counter.glitch.me/brumartinelli/count.svg?color=red&style=bold
+
 Hey! Welcome to my profile 
 
-# ABOUT ME
+# <span style="color: yellow;">ABOUT ME</span>
 I'm currently completing a Bachelor's degree in Software Engineering. As a self-taught professional, I have worked in various fields, which has made me a flexible professional with a broader perspective on problem-solving. Creativity is my standout quality.
 
 # CONTACTS
@@ -32,8 +32,3 @@ I'm currently completing a Bachelor's degree in Software Engineering. As a self-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brumartinelli/brumartinelli/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brumartinelli/brumartinelli/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-<p align="right">VISITORS:</p>
-<p align="right"><img align="right"src="https://profile-counter.glitch.me/brumartinelli/count.svg?color=red&style=bold"/></p>
-   </p><hr>
