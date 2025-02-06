@@ -11,7 +11,7 @@ Hey! Welcome to my profile
 * Creativity is my differential quality;
 * English level A2.
 
-# CONTACTS
+# CONTACT
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:brunocezar20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/brumartinelli/)
