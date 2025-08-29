@@ -1,7 +1,3 @@
-<p align="right">VISITORS:</p>
-<p align="right"><img align="right"src="https://profile-counter.glitch.me/brumartinelli/count.svg"/></p>
-   </p><hr>
-
 Hey! Welcome to my profile 
 
 # ABOUT ME
